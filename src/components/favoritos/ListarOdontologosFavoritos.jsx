@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import Card from './Card'
-import { GiWolfHead, GiWerewolf } from 'react-icons/gi'
 import { BsFillSlashCircleFill } from 'react-icons/bs'
 
 export default function ListarOdontologosFavoritos() {

@@ -1,7 +1,7 @@
 import { useContext, useState } from 'react'
 import { ElementosGlobales } from '../context/ElementosGlobales'
 import ListadoOdontologos from '../components/home/ListadoOdontologos'
-import { GiWolfHead } from 'react-icons/gi'
+
 
 export default function Home() {
   const [loading, setLoading] = useState(false)

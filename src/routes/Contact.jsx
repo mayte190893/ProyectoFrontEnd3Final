@@ -1,5 +1,4 @@
 import FormularioContacto from '../components/contact/FormularioContacto'
-import { GiDirewolf } from 'react-icons/gi'
 export default function Contact() {
   return (
     <section classname='section-contact transition-element'>
